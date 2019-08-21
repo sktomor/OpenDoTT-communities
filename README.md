@@ -2,7 +2,7 @@
 Thank you for your interest in this project!  👍🏾 🎊 I am exited to have you on board!
 
 * [About the OpenDoTT Project](#about-the-opendott-project)
-** [Communities and Neighbourhoods](#communities-and-neighbourhoods)
+* [Communities and Neighbourhoods](#communities-and-neighbourhoods)
 * [Contact](#contact)
 
 ### About the OpenDoTT Project
