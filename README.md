@@ -1,4 +1,4 @@
-## Welcome to the OpenDoTT Communities and Neighbourhoods Project
+## Welcome to the OpenDoTT - Communities and Neighbourhoods Project
 Thank you for your interest in this project!  👍🏾 🎊 I am exited to have you on board!
 
 * [About the OpenDoTT Project](#about-the-opendott-project)
