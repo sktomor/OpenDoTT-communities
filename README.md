@@ -24,10 +24,10 @@ IoT is often considered at small/personal scales and at very large/city scales, 
 We are looking for anyone interested in researching, building and deploying technologies for communities and neighbourhoods, and focusing on rural or underserved communities. Please look at the [CONTRIBUTING.md](https://github.com/MsKiden/OpenDoTT-communities/blob/master/CONTRIBUTING.md) on details on how you can contribute and a list of contributors. 
 
 Take a look at these resources: (to be updated)
-Open Canvas
-Project Roadmap
-Project Code of Conduct
-Project Maintenance
+* Open Canvas
+* Project Roadmap
+* Project Code of Conduct
+* Project Maintenance
 
 The project is licensed under the MIT License. See details [here](https://github.com/MsKiden/OpenDoTT-communities/blob/master/LICENSE).
 
