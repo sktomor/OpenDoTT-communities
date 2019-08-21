@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Welcome to the OpenDoTT Communities and Neighbourhoods Project
+Thank you for your interest in this project!  👍🏾 🎊 I am exited to have you on board!
 
-You can use the [editor on GitHub](https://github.com/MsKiden/OpenDoTT-communities/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+* [About the OpenDoTT Project](#about-the-opendott-project)
+** [Communities and Neighbourhoods](#communities-and-neighbourhoods)
+* [Contact](#contact)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About the OpenDoTT Project
+Open Design of Trusted Things (OpenDoTT) is a PhD programme  from the University of Dundee and Mozilla to  explore how to build a more open, secure, and trustworthy Internet of Things (IoT). This program will train technologists, designers, and researchers to create and advocate for connected products that are more open, secure, and trustworthy. The project is made possible through funding from the European Union's Horizon 2020 program. 
 
-### Markdown
+Topics:
+1. Wearables and the Self
+2. Smart Homes
+3. Communities and Neighbourhoods
+4. Smart Cities
+5. A Trust Mark for IoT
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+See [project website](https://opendott.org/).
 
-```markdown
-Syntax highlighted code block
+#### Communities and Neighbourhoods
+IoT is often considered at small/personal scales and at very large/city scales, but the physical nature of IoT makes it ideal for street-level technology, while the increased availability of cheap, DIY platforms places it within the realms of possibility for grassroots communities of makers and activists at a local scale. The research will explore the possibilities for smaller-scale local IoT technology and the challenges for IoT operating at this scale. 
 
-# Header 1
-## Header 2
-### Header 3
+### Contact 
+This page is maintained by Sarah Kiden, a Marie Curie Research Fellow at the University of Dundee. See Sarah's [bio](https://eskay.io/) and [GitHub repo](https://github.com/MsKiden).
 
-- Bulleted
-- List
+Interested? Please feel free to contribute to the project and reach out on email: skiden001(at)dundee(dot)ac(dot)uk or skiden(at)gmail(dot)com.
 
-1. Numbered
-2. List
+Looking forward to engaging with you and to your contribution/ideas to make this project even better. Let's explore possibilities for smaller-scale IoT technology for communities and neighbourhoods. 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MsKiden/OpenDoTT-communities/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Welcome! 
+Karibu!
+Bienvenue!
+👏🏾 🎉 🎊 
