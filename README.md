@@ -20,6 +20,17 @@ See [project website](https://opendott.org/).
 #### Communities and Neighbourhoods
 IoT is often considered at small/personal scales and at very large/city scales, but the physical nature of IoT makes it ideal for street-level technology, while the increased availability of cheap, DIY platforms places it within the realms of possibility for grassroots communities of makers and activists at a local scale. The research will explore the possibilities for smaller-scale local IoT technology and the challenges for IoT operating at this scale. 
 
+## How you can contribute
+We are looking for anyone interested in researching, building and deploying technologies for communities and neighbourhoods, and focusing on rural or underserved communities. Please look at the [CONTRIBUTING.md](https://github.com/MsKiden/OpenDoTT-communities/blob/master/CONTRIBUTING.md) on details on how you can contribute and a list of contributors. 
+
+Take a look at these resources: (to be updated)
+Open Canvas
+Project Roadmap
+Project Code of Conduct
+Project Maintenance
+
+The project is licensed under the MIT License. See details [here](https://github.com/MsKiden/OpenDoTT-communities/blob/master/LICENSE).
+
 ### Contact 
 This page is maintained by Sarah Kiden, a Marie Curie Research Fellow at the University of Dundee. See Sarah's [bio](https://eskay.io/) and [GitHub repo](https://github.com/MsKiden).
 
