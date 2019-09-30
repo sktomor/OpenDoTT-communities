@@ -6,7 +6,7 @@ Thank you for your interest in this project!  👍🏾 🎊 I am exited to have 
 * [Contact](#contact)
 
 ### About the OpenDoTT Project
-Open Design of Trusted Things (OpenDoTT) is a PhD programme  from the University of Dundee and Mozilla to  explore how to build a more open, secure, and trustworthy Internet of Things (IoT). This program will train technologists, designers, and researchers to create and advocate for connected products that are more open, secure, and trustworthy. The project is made possible through funding from the European Union's Horizon 2020 program. 
+Open Design of Trusted Things (OpenDoTT) is a joint programme  from the University of Dundee and Mozilla to  explore how to build a more open, secure, and trustworthy Internet of Things (IoT). This program will train technologists, designers, and researchers to create and advocate for connected products that are more open, secure, and trustworthy. The project is made possible through funding from the European Union's Horizon 2020 program. 
 
 Topics:
 1. Wearables and the Self
