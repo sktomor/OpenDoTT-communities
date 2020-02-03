@@ -11,7 +11,7 @@
 * [Pictorial](#pictorial)
 
 #### Topic:
-[Communities and Neighbourhoods](https://github.com/MsKiden/OpenDoTT-communities). See [OpenDoTT project](https://opendott.org/)
+[Communities and Neighbourhoods](https://github.com/MsKiden/OpenDoTT-communities). See [OpenDoTT Project](https://opendott.org/)
 
 
 #### Contact:
@@ -39,7 +39,7 @@ Co-designing the Internet of Things with Communities | | | Initial plan to do et
 #### Related Events / Projects
 Event | Location | Date | Role | Description 
 ----- | --------- | ---- | ----
-|[Internet Governance Forum](https://www.intgovforum.org/multilingual/) | Berlin, Germany | 25 - 29 Nov 2019 | Panelist/Session Organiser
+|[Internet Governance Forum](https://www.intgovforum.org/multilingual/) | Berlin, Germany | 25 - 29 Nov 2019 | Panelist/Session Organiser | 
 |[Internet Corporation for Assigned Names and Numbers (ICANN)](https://meetings.icann.org/en/montreal66) 66 | Montréal, Canada | 2 - 7 Nov 2019 | AFRALO Secretariat  | Also attended the North American School on Internet Governance prior to ICANN66 |
 
 =======
