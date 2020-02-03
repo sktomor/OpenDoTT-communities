@@ -13,15 +13,12 @@
 #### Topic:
 [Communities and Neighbourhoods](https://github.com/MsKiden/OpenDoTT-communities). See [OpenDoTT Project](https://opendott.org/)
 
-
 #### Contact:
-* **Email**: [skiden001(at)dundee(dot)ac(dot)uk](mailto:skiden001@dundee.ac.uk), [sarahk(at)mozillafoundation(dot)org](mailto:sarahk@mozillafoundation.org) or [skiden(at)gmail(dot)com](mailto:skiden@gmail.com) 
+* **Email**: [skiden001(at)dundee(dot)ac(dot)uk](mailto:skiden001@dundee.ac.uk) or [sarahk(at)mozillafoundation(dot)org](mailto:sarahk@mozillafoundation.org) or [skiden(at)gmail(dot)com](mailto:skiden@gmail.com) 
 * **Twitter**: [@MsKiden](https://twitter.com/MsKiden)
 * **GitHub**: [@MsKiden](https://github.com/MsKiden)
 
-
 As part of the OpenDoTT Project, I completed/participated in the following:
-
 
 #### Events / Activities
 
@@ -31,15 +28,17 @@ Event | Location | Date | Role | Panels/Sessions |
 |[Mozilla Festival (MozFest)](https://www.mozillafestival.org/en/) | London, United Kingdom | 21 - 27 Oct 2019 | Mozilla Fellow/Co-Facilitator |[Feminist Research for a Healthy Internet?](https://public.zenkit.com/i/2RH604FcHf/s8Pj-LxkFr/feminist-research-for-a-healthy-internet?v=AjPMuJLUs&hide=filters,views,workspaceLists) | 
 
 #### Projects
+
 Title | Tech used | Link | Description
 ----- | --------- | ---- | ------------
 Co-designing the Internet of Things with Communities | | | Initial plan to do ethnography at the Dundee West Community Fridge 
 
 
 #### Related Events / Projects
+
 Event | Location | Date | Role | Description 
------ | --------- | ---- | ----
-|[Internet Governance Forum](https://www.intgovforum.org/multilingual/) | Berlin, Germany | 25 - 29 Nov 2019 | Panelist/Session Organiser | 
+----- | --------- | ---- | ---- | ---------------
+|[Internet Governance Forum 2019](https://www.intgovforum.org/multilingual/) | Berlin, Germany | 25 - 29 Nov 2019 | Panelist/Session Organiser | 
 |[Internet Corporation for Assigned Names and Numbers (ICANN)](https://meetings.icann.org/en/montreal66) 66 | Montréal, Canada | 2 - 7 Nov 2019 | AFRALO Secretariat  | Also attended the North American School on Internet Governance prior to ICANN66 |
 
 =======
