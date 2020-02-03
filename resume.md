@@ -10,8 +10,8 @@
 * [Media](#media)
 * [Pictorial](#pictorial)
 
-#### Topic:
-[Communities and Neighbourhoods](https://github.com/MsKiden/OpenDoTT-communities). See [OpenDoTT Project](https://opendott.org/)
+#### Topic: [Communities and Neighbourhoods](https://github.com/MsKiden/OpenDoTT-communities) 
+See [OpenDoTT Project](https://opendott.org/)
 
 #### Contact:
 * **Email**: [skiden001(at)dundee(dot)ac(dot)uk](mailto:skiden001@dundee.ac.uk) or [sarahk(at)mozillafoundation(dot)org](mailto:sarahk@mozillafoundation.org) or [skiden(at)gmail(dot)com](mailto:skiden@gmail.com) 
