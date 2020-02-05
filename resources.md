@@ -4,7 +4,7 @@ Design Research
 
 4IR
 
-Internet of Things in Africa (IoT)
+Internet of Things (IoT) in Africa 
 
 
 
