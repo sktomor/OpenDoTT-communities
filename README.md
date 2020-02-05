@@ -31,8 +31,12 @@ Take a look at these resources: (to be updated)
 
 The project is licensed under the MIT License. See details [here](https://github.com/MsKiden/OpenDoTT-communities/blob/master/LICENSE).
 
+## Literature, References and Other Resources
+Recommended resources (books, articles, journals, reports, etc) will added to the [resources](https://github.com/MsKiden/OpenDoTT-communities/blob/master/resources.md) section of the repo. 
+
+
 ### Contact 
-This page is maintained by Sarah Kiden, a Marie Curie Research Fellow at the University of Dundee. See Sarah's [bio](https://eskay.io/) and [GitHub repo](https://github.com/MsKiden).
+This page is maintained by Sarah Kiden, a Marie Curie Research Fellow (Early Stage Researcher (ESR)) at the University of Dundee and Mozilla. See Sarah's [bio](https://eskay.io/) and [GitHub repo](https://github.com/MsKiden).
 
 Interested? Please feel free to contribute to the project and reach out on email: skiden001(at)dundee(dot)ac(dot)uk or skiden(at)gmail(dot)com.
 
