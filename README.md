@@ -16,7 +16,7 @@ Topics:
 4. Smart Cities
 5. A Trust Mark for IoT
 
-See [project website](https://opendott.org/) and the [communities landing page](https://opendott.org/communities/).
+See [project website](https://opendott.org/) and the communities [landing page](https://opendott.org/communities/).
 
 #### Communities and Neighbourhoods
 IoT is often considered at small/personal scales and at very large/city scales, but the physical nature of IoT makes it ideal for street-level technology, while the increased availability of cheap, DIY platforms places it within the realms of possibility for grassroots communities of makers and activists at a local scale. The research will explore the possibilities for smaller-scale local IoT technology and the challenges for IoT operating at this scale. 
