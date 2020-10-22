@@ -21,6 +21,10 @@ See [project website](https://opendott.org/) and the communities [landing page](
 #### Communities and Neighbourhoods
 IoT is often considered at small/personal scales and at very large/city scales, but the physical nature of IoT makes it ideal for street-level technology, while the increased availability of cheap, DIY platforms places it within the realms of possibility for grassroots communities of makers and activists at a local scale. The research will explore the possibilities for smaller-scale local IoT technology and the challenges for IoT operating at this scale. 
 
+  * Year 1 ([Design Research](https://github.com/MsKiden/OpenDoTT-communities/blob/master/design-research.md))
+  * Year 2 ([Internet Health](https://github.com/MsKiden/OpenDoTT-communities/blob/master/openness.md))
+  * Year 3 
+
 ## How you can contribute
 We are looking for anyone interested in researching, building and deploying technologies for communities and neighbourhoods, and focusing on rural or underserved communities. Please look at the [CONTRIBUTING.md](https://github.com/MsKiden/OpenDoTT-communities/blob/master/CONTRIBUTING.md) on details on how you can contribute and a list of contributors. 
 
