@@ -21,9 +21,9 @@ See [project website](https://opendott.org/) and the communities [landing page](
 #### Communities and Neighbourhoods
 Internet of Things (IoT) is often considered at small/personal scales and at very large/city scales, but the physical nature of IoT makes it ideal for street-level technology, while the increased availability of cheap, do-it-yourself (DIY) platforms places it within the realms of possibility for grassroots communities of makers and activists at a local scale. The research is exploring the possibilities for smaller-scale local IoT technology and the challenges for IoT operating at this scale. 
 
-  * Year 1 ([Design Research](https://github.com/sktomor/OpenDoTT-communities/blob/master/design-research.md))
-  * Year 2 ([Internet Health and Open Hardware](https://github.com/sktomor/OpenDoTT-communities/blob/master/internet-health-open-hardware))
-  * Year 3 Policy
+  * Year 1: [Design Research](https://github.com/sktomor/OpenDoTT-communities/blob/master/design-research.md)
+  * Year 2: [Internet Health](https://github.com/sktomor/OpenDoTT-communities/blob/master/Internet-health) and [Open Hardware](https://github.com/sktomor/OpenDoTT-communities/blob/master/open-hardware)
+  * Year 3: Policy
 
 ## How you can contribute
 We are looking for anyone interested in researching, building and deploying technologies for communities and neighbourhoods, and focusing on rural or underserved communities. Please look at the [CONTRIBUTING.md](https://github.com/MsKiden/OpenDoTT-communities/blob/master/CONTRIBUTING.md) on details on how you can contribute and a list of contributors. 
@@ -41,7 +41,7 @@ Recommended resources (books, articles, journals, reports, etc) will added to th
 
 
 ### Contact 
-This page is maintained by Sarah Kiden, a Marie Curie Research Fellow (Early Stage Researcher (ESR)) at Northumbria University and Mozilla. See Sarah's [bio](https://eskay.io/) and [GitHub repo](https://github.com/sktomor).
+This page is maintained by Sarah T. Kiden, a Marie Curie Research Fellow (Early Stage Researcher (ESR)) at Northumbria University and Mozilla. See Sarah's [bio](https://eskay.io/) and [GitHub repo](https://github.com/sktomor).
 
 Interested? Please feel free to contribute to the project and reach out on email: sarah(dot)kiden(at)northumbria(dot)ac(dot)uk or sarahk(at)mozillafoundation(dot)org.
 
