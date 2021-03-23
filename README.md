@@ -41,7 +41,7 @@ Recommended resources (books, articles, journals, reports, etc) will added to th
 
 
 ### Contact 
-This page is maintained by Sarah Kiden, a Marie Curie Research Fellow (Early Stage Researcher (ESR)) at the University of Dundee and Mozilla. See Sarah's [bio](https://eskay.io/) and [GitHub repo](https://github.com/MsKiden).
+This page is maintained by Sarah Kiden, a Marie Curie Research Fellow (Early Stage Researcher (ESR)) at Northumbria University and Mozilla. See Sarah's [bio](https://eskay.io/) and [GitHub repo](https://github.com/sktomor).
 
 Interested? Please feel free to contribute to the project and reach out on email: sarah(dot)kiden(at)northumbria(dot)ac(dot)uk or sarahk(at)mozillafoundation(dot)org.
 
