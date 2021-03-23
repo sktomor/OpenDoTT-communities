@@ -1,5 +1,5 @@
 ## Welcome to OpenDoTT - Communities and Neighbourhoods
-Thank you for your interest in this project!  👍🏾 🎊 We exited to have you on board!
+Thank you for your interest in this project!  👍🏾 🎊 We excited to have you on board!
 
 * [About the OpenDoTT Project](#about-the-opendott-project)
 * [Communities and Neighbourhoods](#communities-and-neighbourhoods)
