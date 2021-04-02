@@ -55,18 +55,18 @@ Bienvenue!
 <p>
  <html>
   <img src="https://github.com/sktomor/OpenDoTT-communities/blob/master/images/NU-logo.png"
-    width=130
+    width=120
   </img>
 </html>
  &nbsp;&nbsp;
  <html>
   <img src="https://github.com/sktomor/OpenDoTT-communities/blob/master/images/Mozilla_logo.png"
-    width=130
+    width=120
   </img>
 </html>
  &nbsp;&nbsp;
  <html>
   <img src="https://github.com/sktomor/OpenDoTT-communities/blob/master/images/EU-logo-funding-text1.png"
-    width=360
+    width=330
   </img>
 </html>
