@@ -1,6 +1,7 @@
 # Internet Health
 * [Openness](#openness)
 * [Universal Acceptance (UA)](#universal-acceptance)
+* [Materials](#materials)
 
 ## Openness
 Following an Internet Health training based on the [Mozilla Open Leadership training](https://mozilla.github.io/open-leadership-training-series/), this blog post was written. [Openness for Building Equity: Lessons from the growth of the Internet](https://opendott.org/posts/openness-for-building-equity-internet/) 
@@ -12,4 +13,5 @@ UA helps to remove technical barriers for users and ensuring that more languages
 
 We are organising a webinar series titled "Demistifying Universal Acceptance: What does a multilingual Internet look like?". More information is available in [this repository](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda) and this [draft agenda](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/activities-and-events/UA-webinar-series-2021-2022.md). The webinars will run from July to December 2021.
 
-[Check out our zine ](https://github.com/sktomor/OpenDoTT-communities/blob/master/resources/zines/zine-universal-acceptance-1.pdf)
+## Materials
+[Check out our zine](https://github.com/sktomor/OpenDoTT-communities/blob/master/resources/zines/zine-universal-acceptance-1.pdf) on Universal Acceptance
