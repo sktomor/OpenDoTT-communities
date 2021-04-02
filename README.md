@@ -66,7 +66,7 @@ Bienvenue!
 </html>
  &nbsp;&nbsp;
  <html>
-  <img src="https://github.com/sktomor/OpenDoTT-communities/blob/master/images/EU-logo-funding-text.png"
+  <img src=" https://github.com/sktomor/OpenDoTT-communities/blob/master/images/EU-logo-funding-text1.png"
     width=360
   </img>
 </html>
