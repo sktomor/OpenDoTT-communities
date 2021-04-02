@@ -35,7 +35,7 @@ Take a look at these resources: (to be updated)
 * [Project Code of Conduct](https://github.com/sktomor/OpenDoTT-communities/blob/master/CODE_OF_CONDUCT.md) to encourage respectful and meaningful collaboration
 * Project Maintenance
 
-Recommended resources (books, articles, journals, reports, etc) will be added to the [resources](https://github.com/sktomor/OpenDoTT-communities/tree/master/resources) section of the repo. 
+Recommended resources (books, articles, journals, reports, etc) will be added to the [resources](https://github.com/sktomor/OpenDoTT-communities/tree/master/resources) section of the repo. You may also enjoy our [Zine collection](https://github.com/sktomor/OpenDoTT-communities/tree/master/resources/zines). 
 
 The project is licensed under the MIT License for software/code, and CC-BY 4.0 for non-software content. See details [here](https://github.com/sktomor/OpenDoTT-communities/blob/master/LICENSE).
 
@@ -56,19 +56,19 @@ Bienvenue!
 -------------
 <p>
  <html>
-  <img src="https://github.com/sktomor/OpenDoTT-communities/blob/master/assorted-images/NU-logo.png"
+  <img src="https://github.com/sktomor/OpenDoTT-communities/blob/master/resources/assorted-images/NU-logo.png"
     width=120
   </img>
 </html>
  &nbsp;&nbsp;
  <html>
-  <img src="https://github.com/sktomor/OpenDoTT-communities/blob/master/assorted-images/Mozilla_logo.png"
+  <img src="https://github.com/sktomor/OpenDoTT-communities/blob/master/resources/assorted-images/Mozilla_logo.png"
     width=120
   </img>
 </html>
  &nbsp;&nbsp;
  <html>
-  <img src="https://github.com/sktomor/OpenDoTT-communities/blob/master/assorted-images/EU-logo-funding-text1.png"
+  <img src="https://github.com/sktomor/OpenDoTT-communities/blob/master/resources/assorted-images/EU-logo-funding-text1.png"
     width=330
   </img>
 </html>
