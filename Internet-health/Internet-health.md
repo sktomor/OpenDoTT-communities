@@ -14,4 +14,4 @@ UA helps to remove technical barriers for users and ensuring that more languages
 We are organising a webinar series titled "Demistifying Universal Acceptance: What does a multilingual Internet look like?". More information is available in [this repository](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda) and this [draft agenda](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/activities-and-events/UA-webinar-series-2021-2022.md). The webinars will run from July to December 2021.
 
 ## Materials
-[Check out our zine](https://github.com/sktomor/OpenDoTT-communities/blob/master/resources/zines/zine-universal-acceptance-1.pdf) on Universal Acceptance
+[Check out our zine](https://github.com/sktomor/OpenDoTT-communities/blob/master/resources/zines/zine-universal-acceptance-1.pdf) on Universal Acceptance. [A4 version](https://github.com/sktomor/OpenDoTT-communities/blob/master/resources/zines/zine-universal-acceptance-A4-1.pdf) available to print. 
