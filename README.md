@@ -13,7 +13,7 @@ Open Design of Trusted Things (OpenDoTT) is a joint programme from the Northumbr
 Topics:
 1. Wearables and the Self
 2. Smart Homes
-3. **Communities and Neighbourhoods**
+3. **Communities and Neighbourhoods** (my topic)
 4. Smart Cities
 5. A Trust Mark for IoT
 
