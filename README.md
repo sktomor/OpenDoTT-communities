@@ -41,13 +41,13 @@ Recommended resources (books, articles, journals, reports, etc) will added to th
 
 
 ### Contact 
-This page is maintained by Sarah T. Kiden, a Marie Curie Research Fellow (Early Stage Researcher (ESR)) at Northumbria University and Mozilla. See Sarah's [bio](https://eskay.io/) and [GitHub repo](https://github.com/sktomor).
+This repo is maintained by Sarah T. Kiden, a Marie Curie Research Fellow (Early Stage Researcher (ESR)) at Northumbria University and Mozilla. See Sarah's [bio](https://eskay.io/) and [GitHub repo](https://github.com/sktomor).
 
 Interested? Please feel free to contribute to the project and reach out on email: sarah(dot)kiden(at)northumbria(dot)ac(dot)uk or sarahk(at)mozillafoundation(dot)org.
 
 Looking forward to engaging with you and to your contribution/ideas to make this project even better. Let's explore possibilities for smaller-scale IoT technology for communities and neighbourhoods. 
 
-Welcome! 
-Karibu!
-Bienvenue!
+Welcome!<br> 
+Karibu!<br>
+Bienvenue!<br>
 👏🏾 🎉 🎊 
