@@ -56,19 +56,19 @@ Bienvenue!
 -------------
 <p>
  <html>
-  <img src="https://github.com/sktomor/OpenDoTT-communities/blob/master/images/NU-logo.png"
+  <img src="https://github.com/sktomor/OpenDoTT-communities/blob/master/assorted-images/NU-logo.png"
     width=120
   </img>
 </html>
  &nbsp;&nbsp;
  <html>
-  <img src="https://github.com/sktomor/OpenDoTT-communities/blob/master/images/Mozilla_logo.png"
+  <img src="https://github.com/sktomor/OpenDoTT-communities/blob/master/assorted-images/Mozilla_logo.png"
     width=120
   </img>
 </html>
  &nbsp;&nbsp;
  <html>
-  <img src="https://github.com/sktomor/OpenDoTT-communities/blob/master/images/EU-logo-funding-text1.png"
+  <img src="https://github.com/sktomor/OpenDoTT-communities/blob/master/assorted-images/EU-logo-funding-text1.png"
     width=330
   </img>
 </html>
