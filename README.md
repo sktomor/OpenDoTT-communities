@@ -24,7 +24,7 @@ Internet of Things (IoT) is often considered at small/personal scales and at ver
 
   * Year 1: [Design Research](https://github.com/sktomor/OpenDoTT-communities/blob/master/design-research.md)
   * Year 2: [Internet Health](https://github.com/sktomor/OpenDoTT-communities/blob/master/Internet-health.md) and [Open Technology](https://github.com/sktomor/OpenDoTT-communities/blob/master/open-technology.md)
-  * Year 3: [Policy Engagement and Advocacy](https://github.com/sktomor/OpenDoTT-communities/blob/master/policy.md)
+  * Year 3: [Policy Engagement and Advocacy](https://github.com/sktomor/OpenDoTT-communities/blob/master/policy-and-advocacy.md)
 
 ## Resources and how you can contribute
 We are looking for anyone interested in researching, building and deploying technologies for communities and neighbourhoods, and focusing on rural or underserved communities. Please look at the [CONTRIBUTING.md](https://github.com/sktomor/OpenDoTT-communities/blob/master/CONTRIBUTING.md) on details on how you can contribute and a list of contributors.
