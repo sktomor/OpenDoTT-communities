@@ -8,7 +8,7 @@ Thank you for your interest in this project!  👍🏾 🎊 We excited to have y
 
 ## About the OpenDoTT Project
 Open Design of Trusted Things (OpenDoTT) is a joint programme from the Northumbria University and Mozilla to  explore how to build a more open, secure, and trustworthy Internet of Things (IoT). This program is training technologists, designers, and researchers to create and advocate for connected products that are more open, secure, and trustworthy. The project is made possible through funding from the European Union's Horizon 2020 program. 
-<br>*If you read an earlier version of this file, please note that as of June 2020, the OpenDoTT project moved from Duncan of Jordanstone Colle of Art and Design (DJCAD) at the University of Dundee to Northumbria University School of Design in Newcastle.*
+<br><br> *If you read an earlier version of this file, please note that as of June 2020, the OpenDoTT project moved from Duncan of Jordanstone Colle of Art and Design (DJCAD) at the University of Dundee to Northumbria University School of Design in Newcastle.*
 
 Topics:
 1. Wearables and the Self
