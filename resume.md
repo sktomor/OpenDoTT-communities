@@ -14,9 +14,9 @@
 See [OpenDoTT Project](https://opendott.org/)
 
 #### Contact:
-* **Email**: [skiden001(at)dundee(dot)ac(dot)uk](mailto:skiden001@dundee.ac.uk) or [sarahk(at)mozillafoundation(dot)org](mailto:sarahk@mozillafoundation.org) or [skiden(at)gmail(dot)com](mailto:skiden@gmail.com) 
+* **Email**: [sarah(dot)kiden(at)northumbria(dot)ac(dot)uk](mailto:sarah.kiden@northumbria.ac.uk) or [sarahk(at)mozillafoundation(dot)org](mailto:sarahk@mozillafoundation.org) 
 * **Twitter**: [@MsKiden](https://twitter.com/MsKiden)
-* **GitHub**: [@MsKiden](https://github.com/MsKiden)
+* **GitHub**: [@sktomor](https://github.com/sktomor)
 
 As part of the OpenDoTT Project, I completed/participated in the following:
 
@@ -45,6 +45,8 @@ Event | Location | Date | Role | Description
 
 #### Writing
 1. OpenDoTT Blog - [Rooted in Community](https://opendott.org/posts/rooted-in-community/)
+2. OpenDoTT Blog - [Online, Offline and COVID-19: The Digital Divide](https://opendott.org/posts/online-offline-and-covid-19-the-digital-divide/)
+3. OpenDoTT Blog - [Openness for Building Equity: Lessons from the growth of the Internet](https://opendott.org/posts/openness-for-building-equity-internet/)
 
 
 
