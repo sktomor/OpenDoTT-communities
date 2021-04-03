@@ -38,7 +38,7 @@ Event | Location | Date(s) | Role(s) | Panels/Sessions |
 =======
 
 Event |      | Location | Date(s) | Role(s) | Description |
-----: | ---: | -------: | ------: | ------: | ------------:
+:---- | ---: | -------: | ------: | ------: | ------------:
 Mozilla Festival (MozFest) | 2021 | Virtual | 8 - 19 March 2021 | Wrangler | Wrangler (community organiser) and  Sustainability Space/Theme curator |
 ^^ | 2019 | London, UK | 21 - 27 October 2019 | Facilitator | <ol><li> [Feminist research for a healthy Internet?](https://discourse.mozilla.org/t/feminist-research-for-a-healthy-internet/46647) <li> Drafted an [open letter](https://docs.google.com/document/d/1X-7QPTWhCw7LC73aHSLUPuQnONzYttXT62ausWgME-Y/edit) in the "I want to do that too! session in the Digital Inclusion Space </ol>|
 ThingsCon | 2019 | Rotterdam, Netherlands | 12 - 13 December 2019 | Presenter | [IoT for the Community by the Community](https://thingscon.org/track-c-shape-responsible-products/)|
