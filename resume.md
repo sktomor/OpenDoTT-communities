@@ -10,16 +10,16 @@
 * [Media](#media)
 * [Pictorial](#pictorial)
 
-#### Topic: [Communities and Neighbourhoods](https://github.com/sktomor/OpenDoTT-communities) 
+### Topic: [Communities and Neighbourhoods](https://github.com/sktomor/OpenDoTT-communities) 
 
-#### Contact:
+### Contact:
 * **Email**: [sarah(dot)kiden(at)northumbria(dot)ac(dot)uk](mailto:sarah.kiden@northumbria.ac.uk) or [sarahk(at)mozillafoundation(dot)org](mailto:sarahk@mozillafoundation.org) 
 * **Twitter**: [@MsKiden](https://twitter.com/MsKiden)
 * **GitHub**: [@sktomor](https://github.com/sktomor)
 
 As part of my fellowship on the [OpenDoTT Project](https://opendott.org), I completed/participated in the following:
 
-#### Events / Activities
+### Events / Activities
 
 Event | Location | Date | Role | Panels/Sessions |
 ----- | -------- | ---- | ----- | -----  
