@@ -1,6 +1,6 @@
 # Internet Health
 * [Openness](#openness)
-* [Universal Acceptance (UA)](#universal-acceptance)
+* [Universal Acceptance (UA)](#universal-acceptance-UA)
 * [Reading List](#reading-list)
 * [Materials](#materials)
 
