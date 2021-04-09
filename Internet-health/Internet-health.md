@@ -10,7 +10,9 @@ Following an Internet Health training based on the [Mozilla Open Leadership trai
 ## Universal Acceptance (UA)
 Because we believe that the Internet should be open and accessible to everyone, we agree with the Universal Acceptance Steering Group ([UASG](https://uasg.tech/)) that all domain names and email addresses should work in all software applications (including web and email applications) and accept characters in other language scripts besides the Latin script or the English language. 
 
-UA helps to remove technical and linguistic barriers for users and ensuring that more languages are represented online. It is a foundational requirement for a truly multilingual and inclusive Internet by allowing people to use native/indegenous languages and in turn bringing more people online. We believe that this will contribute to making the Internet healthy and also contribute to answering the community building research question, which is one of the themes of the project. 
+UA helps to remove technical and linguistic barriers for users and ensuring that more languages are represented online. It is a foundational requirement for a truly multilingual and inclusive Internet by allowing people to use native/indegenous languages and in turn bringing more people online. We believe that this will contribute to making the Internet healthy and also contribute to answering the community building research question, which is one of the themes of the project.
+
+As we work on the open technology part of the project, we hope to include aspects of UA in the prototype, either as functionality or a proposal for future development. 
 
 [We](https://github.com/ua4u) are organising a webinar series titled "Demistifying Universal Acceptance: What does a multilingual Internet look like?". More information is available in [this repository](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda) and this [draft agenda](https://github.com/Universal-Acceptance-for-You/universal-acceptance-in-uganda/blob/main/activities-and-events/UA-webinar-series-2021-2022.md). The webinars will run from July to December 2021.
 
